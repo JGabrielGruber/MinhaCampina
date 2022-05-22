@@ -21,7 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Minha Campina"
-run/main_scene="res://Levels/Main/L_Main.tscn"
+run/main_scene="res://Menus/Menu.tscn"
 config/icon="res://icon.png"
 
 [gui]

@@ -1,0 +1,16 @@
+[gd_resource type="SpatialMaterial" load_steps=2 format=2]
+
+[ext_resource path="res://Levels/Main/Materials/Grass.png" type="Texture" id=1]
+
+[resource]
+params_diffuse_mode = 1
+albedo_color = Color( 0.219608, 0.705882, 0, 1 )
+albedo_texture = ExtResource( 1 )
+metallic_specular = 0.0
+ao_enabled = true
+ao_light_affect = 0.0
+ao_on_uv2 = false
+ao_texture_channel = 0
+uv1_scale = Vector3( 10, 10, 10 )
+uv1_offset = Vector3( 10, 10, 10 )
+uv1_triplanar = true
